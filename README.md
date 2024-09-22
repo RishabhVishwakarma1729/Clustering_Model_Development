@@ -186,12 +186,4 @@ The project highlights the potential for clustering as a tool for understanding 
 
 Overall, this project serves as a starting point for further exploration of clustering techniques in financial analysis, offering a framework that can be built upon with more advanced techniques and a broader dataset.
 
-## References
-
-1. **YFinance Documentation**: Yahoo Finance API documentation for Python (yfinance) - [YFinance Documentation](https://pypi.org/project/yfinance/)
-2. **K-Means Clustering**: MacQueen, J. (1967). "Some Methods for classification and Analysis of Multivariate Observations". Proceedings of 5th Berkeley Symposium on Mathematical Statistics and Probability. University of California Press. pp. 281–297.
-3. **PCA (Principal Component Analysis)**: Jolliffe, I.T. (2002). "Principal Component Analysis". Springer Series in Statistics. Springer-Verlag.
-4. **StandardScaler**: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., Duchesnay, E. (2011). "Scikit-learn: Machine Learning in Python". Journal of Machine Learning Research, 12, pp. 2825-2830.
-5. **Silhouette Score**: Rousseeuw, P. J. (1987). "Silhouettes: A graphical aid to the interpretation and validation of cluster analysis". Journal of Computational and Applied Mathematics. 20: 53–65.
-
 

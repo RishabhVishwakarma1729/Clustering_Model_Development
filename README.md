@@ -21,7 +21,6 @@
 7. [Potential Extensions](#potential-extensions)
 8. [Limitations](#limitations)
 9. [Conclusion](#conclusion)
-10. [References](#references)
 
 ## Overview
 
